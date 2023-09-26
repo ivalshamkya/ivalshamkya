@@ -7,7 +7,7 @@ Feel free to explore my repositories, and if you have any questions or want to c
 Want to know more about me? [Check out my portfolio.](https://github.com/ivalshamkya/ivalshamkya)
 
 [![Linkedin: Ival Shamkya](https://img.shields.io/badge/-Ival%20Shamkya-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ival-shamkya/)](https://www.linkedin.com/in/ival-shamkya/)
-<a href="mailto:ivalshamkya@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ivalshamkya-5523de?logo=gmail"></a>
+<a href="mailto:ivalshamkya@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ivalshamkya-eb2a1c?logo=gmail"></a>
 [![](https://komarev.com/ghpvc/?username=ivalshamkya&color=5523de&label=Profile%20Views)](https://github.com/ivalshamkya/ivalshamkya)
 
 ### 📈Github Statistics
