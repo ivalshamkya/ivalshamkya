@@ -1,4 +1,4 @@
-# Hi There, I'm Ival Shamkya👋
+# Hi There, I'm Ival👋
 
 Welcome to my GitHub profile. I'm passionate about software development and I love building cool projects. 
 I am always eager to learn new technologies and improve my skills.
