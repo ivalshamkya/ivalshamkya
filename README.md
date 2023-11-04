@@ -4,7 +4,7 @@ Welcome to my GitHub profile. I'm passionate about software development and I lo
 I am always eager to learn new technologies and improve my skills.
 Feel free to explore my repositories, and if you have any questions or want to collaborate on something interesting, don't hesitate to reach out. Let's connect and code together! 🙌😄
 
-Want to know more about me? [Check out my portfolio.](https://github.com/ivalshamkya/ivalshamkya)
+Want to know more about me? [Check out my portfolio.](https://ivalshamkya.com/)
 
 [![Linkedin: Ival Shamkya](https://img.shields.io/badge/-Ival%20Shamkya-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ival-shamkya/)](https://www.linkedin.com/in/ival-shamkya/)
 <a href="mailto:ivalshamkya@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ivalshamkya-eb2a1c?logo=gmail"></a>
