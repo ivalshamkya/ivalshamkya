@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile. I'm passionate about software development and I love building cool projects. 
 I am always eager to learn new technologies and improve my skills.
-Feel free to explore my repositories and kindly leave a star (or "like") if you found anything I've made useful. If you have any questions or want to collaborate on something interesting, don't hesitate to reach out. Let's connect and code together! 🙌😄
+Feel free to explore my repositories and kindly leave a star ⭐️ if you found anything I've made useful. If you have any questions or want to collaborate on something interesting, don't hesitate to reach out. Let's connect and code together! 🙌😄
 
 Want to know more about me? [Check out my portfolio.](https://ivalshamkya.com/)
 
