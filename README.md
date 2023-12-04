@@ -14,7 +14,7 @@ Want to know more about me? [Check out my portfolio.](https://ivalshamkya.com/)
 ### 📈 Github Statistics
 <div style="display: flex">
   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivalshamkya&layout=compact&theme=react&hide=php&langs_count=6&title_color=212121&text_color=212121&icon_color=212121&bg_color=fff" />
-  <img align="center" height="170" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=ivalshamkya&show_icons=true&include_all_commits=true&line_height=27&layout=compact&theme=buefy&count_private=true&hide=contribs&title_color=0078f0&text_color=212121&bg_color=fff&icon_color=8400f0" alt="Ival's GitHub Stats" />
+  <img align="center" height="170" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=ivalshamkya&show_icons=true&include_all_commits=true&line_height=27&layout=compact&theme=buefy&count_private=true&hide=contribs,issues&title_color=0078f0&text_color=212121&bg_color=fff&icon_color=8400f0" alt="Ival's GitHub Stats" />
 </div>
 <!--
 **ivalshamkya/ivalshamkya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
