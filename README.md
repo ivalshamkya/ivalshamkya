@@ -5,7 +5,6 @@ I am always eager to learn new technologies and improve my skills.
 Feel free to explore my repositories and kindly leave a star 🌟 if you found anything I've made useful. Feel free to connect with me through my socials listed up below. Looking forward to connecting with you! ❤️ 
 
 ---
-
 ### 🔗 Links
 [![ivalshamkya.com](https://img.shields.io/badge/-ivalshamkya.com-purple?style=for-the-badge&link=https://www.ivalshamkya.com)](https://www.ivalshamkya.com)
 [![Linkedin: Ival Shamkya](https://img.shields.io/badge/-Ival%20Shamkya-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ival-shamkya/)](https://www.linkedin.com/in/ivalshamkya/)
