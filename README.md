@@ -1,6 +1,6 @@
 ![Frame 25 (2)](https://github.com/ivalshamkya/ivalshamkya/assets/85030029/81838a23-e684-4a75-9fd7-9ce9658e41e8)
 
-## Hello There! 👋
+## Hello There! 👋 
 
 Welcome to my GitHub profile. I'm passionate about software development and I love building cool projects. 
 I am always eager to learn new technologies and improve my skills.
